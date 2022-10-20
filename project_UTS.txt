@@ -1,0 +1,31 @@
+1. jelaskan type data dalam Bahasa dasar pemrograman dan beri contoh data :
+2. buat contoh kode program untuk membedakan type data di pyton
+jawaban :
+1. > Integer,digunakan untuk mendeklarasikan data/variable sebagai bilangan bulat. Misalkan nilai 10, 7,29,100, adn 22. data integer biasanya digunakan untuk data yang      akan dilakukan pengoprasian penjumlahan, pengurangan, pembagian, atau perkalian.
+     #tipe data Integer
+     print(20)
+   > String, khusus untuk string, tipe data yang digunakan untuk mendeklarasikan data yang berisi kalimat atau kata.
+     #tipe data String
+     print("Ayo belajar Python")
+     print('Belajar Python Sangat Mudah')
+   > Boolean, tipe data ini sangat berbeda dengan yang lainnya. Karena tipe data boolean ini hanya digunakan untuk data yang mempunyai 2 nilai saja, yaitu true atau        false.
+     #tipe data Boolean
+     print(True)
+2. #tipe data Float
+   print(3.14)
+
+   #tipe data Hexadecimal
+   print(9a)
+
+   #tipe data Complex
+   print(5j)
+
+   #tipe data List
+   print([1,2,3,4,5])
+   print(["satu", "dua", "tiga"])
+
+   #tipe data Tuple
+   print((1,2,3,4,5))
+   print(("satu", "dua", "tiga"))
+
+
